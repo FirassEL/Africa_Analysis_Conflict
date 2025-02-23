@@ -3,3 +3,7 @@ This project analyzes and visualizes conflict-related data across Africa from 19
 
 
 [View the live app here](https://firassel.shinyapps.io/AfricaConflictAnalysis/)
+
+### **App Preview**
+![Africa Conflict Analysis Screenshot](Shiny_Screenshot.png)
+
